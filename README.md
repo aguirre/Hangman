@@ -6,5 +6,5 @@ All guesses will appear under Letters Guessed.
 Correctly guessed letters will display under Current Word.
 If you run out of guesses Game Over.
 If you guess word before you run out of guesses You Win!
-When you win the game Win # will update.
+When you win the game, Win # will update.
 Press any key to play again.

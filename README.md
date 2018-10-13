@@ -9,4 +9,4 @@ If you guess word before you run out of guesses You Win!<br>
 When you win the game, Win # will update.<br>
 Press any key to play again.<br>
 <br>
-<a href="https://maguirre13.github.io/Hangman">Link to Hangman Game</a>
+<a href="https://aguirre.github.io/Hangman">Link to Hangman Game</a>
